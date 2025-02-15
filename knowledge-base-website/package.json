@@ -1,0 +1,23 @@
+{
+  "name": "knowledge-base-website",
+  "version": "1.0.0",
+  "description": "A quick knowledge base website for easy access to information.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build step not defined'",
+    "test": "echo 'No tests defined'"
+  },
+  "keywords": [
+    "knowledge",
+    "base",
+    "website",
+    "documentation"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
